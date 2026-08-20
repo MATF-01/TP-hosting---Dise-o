@@ -36,7 +36,7 @@ body {
     margin: auto; /*Esto lo uso para centrar*/
 }
 #encabezado{
-    background-image: url(IMG/header1.jpg);
+    background-image: url(header1.jpg);
     width: 900px;
     height: 206px;
 }
